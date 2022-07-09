@@ -1,5 +1,11 @@
 # Cpp2IL-GUI
 
+Instructions:
+1. Download Cpp2IL from the link below
+2. Rename it to "Cpp2IL.exe"
+3. Place it in the same folder as the executable
+4. Run the program
+
 Uses [Cpp2IL 2022.0.5](https://github.com/SamboyCoding/Cpp2IL/releases/tag/2022.0.5)
 
 Basic WinForms GUI for this program. 
