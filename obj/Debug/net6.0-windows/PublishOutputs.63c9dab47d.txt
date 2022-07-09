@@ -1,0 +1,5 @@
+C:\Users\lbert\Desktop\modding shit\Cpp2IL-GUI\bin\Debug\net6.0-windows\publish\Cpp2IL-GUI.exe
+C:\Users\lbert\Desktop\modding shit\Cpp2IL-GUI\bin\Debug\net6.0-windows\publish\Cpp2IL-GUI.dll
+C:\Users\lbert\Desktop\modding shit\Cpp2IL-GUI\bin\Debug\net6.0-windows\publish\Cpp2IL-GUI.deps.json
+C:\Users\lbert\Desktop\modding shit\Cpp2IL-GUI\bin\Debug\net6.0-windows\publish\Cpp2IL-GUI.runtimeconfig.json
+C:\Users\lbert\Desktop\modding shit\Cpp2IL-GUI\bin\Debug\net6.0-windows\publish\Cpp2IL-GUI.pdb
