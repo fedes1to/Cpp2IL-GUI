@@ -5,6 +5,7 @@ Instructions:
 2. Rename it to "Cpp2IL.exe"
 3. Place it in the same folder as the executable
 4. Run the program
+Or alternatively just use the bundled zip
 
 Uses [Cpp2IL 2022.0.5](https://github.com/SamboyCoding/Cpp2IL/releases/tag/2022.0.5)
 
