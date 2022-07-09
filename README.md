@@ -1,5 +1,7 @@
 # Cpp2IL-GUI
 
+~~recommended analysis level of 4
+
 Instructions:
 1. Download Cpp2IL from the link below
 2. Rename it to "Cpp2IL.exe"
