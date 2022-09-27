@@ -1,6 +1,6 @@
 # Cpp2IL-GUI
 
-~~recommended analysis level of 4
+~~recommended analysis level of 0
 
 Instructions:
 1. Download Cpp2IL from the link below
