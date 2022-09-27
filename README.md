@@ -14,6 +14,6 @@ Uses [Cpp2IL 2022.0.7](https://github.com/SamboyCoding/Cpp2IL/releases/tag/2022.
 
 Basic WinForms GUI for this program. 
 
-No I will not update this.
+No I will not update this, just make sure folders don't have spaces and it'll work
 
 BEFORE SAYING IT DOESNT WORK MAKE SURE YOU HAVE .NET 6.0 INSTALLED
